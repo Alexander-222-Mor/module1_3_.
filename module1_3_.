@@ -5,4 +5,4 @@ print (age)
 age = age + 2
 print (age)
 is_student = True
-print (is_student)
+print (bool(is_student))
